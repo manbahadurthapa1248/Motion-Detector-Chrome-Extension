@@ -24,7 +24,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/motion-detector-extension.git
+git clone https://github.com/meliodas-sama1248/motion-detector-extension.git
 cd motion-detector-extension
 ```
 
